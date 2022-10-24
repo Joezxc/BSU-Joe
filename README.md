@@ -1,1 +1,1 @@
-# BSU-Joe
+# BSU Joe
